@@ -1,6 +1,5 @@
-CREATE DATABASE chrsl;
 
-USE chrsl;
+USE hospital_db;
 
 CREATE TABLE statistiques (
     id INT AUTO_INCREMENT PRIMARY KEY,
