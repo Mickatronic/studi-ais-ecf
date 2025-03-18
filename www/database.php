@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "chrsl";
+$username = "hospital_user";
+$password = "password";
+$dbname = "hospital_db";
 
 // Créer une connexion
 $conn = new mysqli($servername, $username, $password, $dbname);
